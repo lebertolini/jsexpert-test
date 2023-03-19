@@ -1,0 +1,9 @@
+[
+  { "id": "a8535be0-e199-419e-beac-6f398605e07e", "name": "Gus", "age": 33 },
+  {
+    "id": "eb02b253-15ce-4c6d-b94a-6e82210e892f",
+    "name": "Providenci",
+    "age": 39
+  },
+  { "id": "da48535f-2629-4905-bb69-e1dd6b5200dd", "name": "Gerald", "age": 38 }
+]
